@@ -13,8 +13,8 @@
 *Machine Learning | Data Visualization | Web Scraping*  
 
 ### 📌 **Featured Projects**  
-- [Fake News Detection System](https://github.com/Providence9073/fake-news-detection) (LSTM + NLP)  
-- [Student Performance Predictor](https://github.com/Providence9073/student-analytics) (92% accuracy)  
+- [Fake News Detection System](https://github.com/Providence9073/FakeNewsDetection) (LSTM + NLP)  
+- [MedicalDiagnosisAssistant](https://github.com/Providence9073/MedicalDiagnosisAssistant)  
 - [Automated GPA Alert Tool](https://github.com/Providence9073/gpa-system) (Streamlit)  
 
 ### 📊 **GitHub Stats**  
