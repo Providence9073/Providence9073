@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Sulaimon Yisau Akinola  
+**Data Scientist | AI Researcher | First-Class Computer Science Graduate**  
 
-<!--
-**Providence9073/Providence9073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Currently**: Researching AI for Educational Equity in the Global South  
+🌱 **Learning**: Advanced NLP, Ethical AI  
+📫 **Reach me**: [Email](mailto:animasahunsulaimonakinola9073@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sulaimon-yisau)  
+⚡ **Fun Fact**: I taught 100+ students Data Structures!  
 
-Here are some ideas to get you started:
+### 🛠️ **Tech Stack**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+*Machine Learning | Data Visualization | Web Scraping*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 **Featured Projects**  
+- [Fake News Detection System](https://github.com/Providence9073/fake-news-detection) (LSTM + NLP)  
+- [Student Performance Predictor](https://github.com/Providence9073/student-analytics) (92% accuracy)  
+- [Automated GPA Alert Tool](https://github.com/Providence9073/gpa-system) (Streamlit)  
+
+### 📊 **GitHub Stats**  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Providence9073&show_icons=true&theme=radical)  
